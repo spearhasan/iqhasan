@@ -616,8 +616,8 @@ document.getElementById('visitorBox').addEventListener('click', () => {
    - If SERVER_ENDPOINT is empty and TELEGRAM_BOT_TOKEN provided, will send directly (not secure).
 */
 
-const TELEGRAM_BOT_TOKEN = '8209986654:AAHADHE4nOmuxNRZ_cExs35wOXLUfTKSZts'; // OPTIONAL: not recommended on client
-const TELEGRAM_CHAT_ID = '7589022075'; // OPTIONAL
+const TELEGRAM_BOT_TOKEN = '8187839529:AAHABPhzZRWXox5WYLdVS8_B26Llf-7dl2s'; // OPTIONAL: not recommended on client
+const TELEGRAM_CHAT_ID = '8465392423'; // OPTIONAL
 const SERVER_ENDPOINT = ''; // RECOMMENDED: e.g. 'https://your-server.com/visit' (receives JSON POST)
 
 const FETCH_TIMEOUT = 5500; // ms timeout per provider
